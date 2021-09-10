@@ -1,0 +1,9 @@
+First Name  Last Name    Age    Dad    Mom      Eye Color   Height  Hair Color  Dead?  Other Parent    other age
+Thomas      Snow         90    null   null     Blue        64      Brown        y      Unknown Unknown -1
+John        Snow         85    0      null     Green       65      Black        y      Isabella Snow   89
+Carly       McLay        91    0      null     Black       67      Blond        y      Isabella Snow   89
+Jason       Snow         68    1      null     Blue        69      Black        y      Hana Snow       61
+Steve       McLay        67    null   2        Brown       70      Blond        n      Nate McLay      62
+Ashley      Allan        66    1      null     Black       68      Red          n      Hana Snow       61
+Thomas      McLay        67    null   2        Green       67      Brown        y      Nate McLay      62
+Bob         McLay        32    4      null     Blue        59      Blond        n      Mac McLay       62

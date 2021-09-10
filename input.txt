@@ -1,0 +1,21 @@
+First Name  Last Name    Age    Dad    Mom      Eye Color   Height  Hair Color  Dead?  Other Parent    other age
+Thomas      Snow         90    null   null     Blue        64      Brown        y      Unknown Unknown -1
+John        Snow         85    0      null     Green       65      Black        y      Isabella Snow   89
+Carly       McLay        91    0      null     Black       67      Blond        y      Isabella Snow   89
+Jason       Snow         68    1      null     Blue        69      Black        y      Hana Snow       61
+Steve       McLay        67    null   2        Brown       70      Blond        n      Nate McLay      62
+Ashley      Allan        66    1      null     Black       68      Red          n      Hana Snow       61
+Thomas      McLay        67    null   2        Green       67      Brown        y      Nate McLay      62
+Bob         McLay        32    4      null     Blue        59      Blond        n      Mac McLay       62
+Sam         McLay        43    4      null     Green       65      Black        n      Mac McLay       62
+Jill        McLay        38    6      null     Black       67      Blond        n      Alexa McLay     66
+Jack        McLay        38    6      null     Blue        69      Black        n      Alexa McLay     66
+Jake        Snow         46    3      null     Brown       64      Blond        n      Kate Snow       68
+Amy         Martin       42    3      null     Black       68      Red          n      Kate Snow       68
+Tristan     Allan        36    null   5        Green       71      Brown        n      Aly Allan       69
+Bill        Allan        33    null   5        Blue        61      Red          n      Aly Allan       69
+Dale        McLay        12    8      null     Brown       52      Black        n      Jess McLay      40
+Jason       McLay        3     10     null     Black       20      Brown        n      Sally McLay     35
+Craig       Snow         9     11     null     Black       43      Blond        n      Maddie Snow     47
+Tran        Snow         14    11     null     Blue        58      Brown        n      Maddie Snow     47
+Charles     Martin       17    null   12       Blue        67      Red          n      Chris Martin    42
